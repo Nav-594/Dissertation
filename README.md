@@ -13,3 +13,7 @@ Identification of linear B-cell epitopes remains an important task for diagnosti
 This dissertation presents a novel approach to linear B-cell epitope prediction using a genetic programming classification model, which has yet to be implemented in the epitope prediction problem. Through a robust data-mining pipeline, a Lentivirus dataset was cleaned and prepared for the modelling of the genetic programming classifier. The model was tested against the current state-of-the-art epitope prediction tool, BepiPred 3.0 which is widely used as a benchmark in this field. The genetic programming model demonstrated superior performance compared to BepiPred 3.0, showcasing the viability of using evolutionary methods for epitope prediction. 
 
 This dissertation provides valuable insight into the application of genetic programming in the epitope prediction problem and showcases the feasibility of using genetic programming in this context.
+
+## Setup
+
+To replicate the project. The dataset all_virus_LBCE_with_ESM1b_features.csv file must be downloaded from the following link: https://aston.app.box.com/s/iv0bokeuusr2mu3ql8u4n2t3kj8twze0
